@@ -1,4 +1,5 @@
 # gitskills
 Create a new branch!
 
-this is feature master
+
+this is feature master and feature one
